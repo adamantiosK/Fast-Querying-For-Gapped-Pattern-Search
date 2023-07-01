@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dc3.cpp
+  dllmain.cpp
+  r0.cpp
+  r12.cpp
+  Generating Code...
+     Creating library C:\Code\DTU\Thesis\FSGPM\FSGPM\Debug\ExternalDC3Implementation.lib and object C:\Code\DTU\Thesis\FSGPM\FSGPM\Debug\ExternalDC3Implementation.exp
+  ExternalDC3Implementation.vcxproj -> C:\Code\DTU\Thesis\FSGPM\FSGPM\Debug\ExternalDC3Implementation.dll
